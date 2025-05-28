@@ -1,0 +1,100 @@
+2025-04-08 10:54:05,422 - INFO - Loading google/flan-t5-base on cpu
+2025-04-08 10:54:09,575 - INFO - Model loaded successfully
+2025-04-08 10:54:09,697 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-08 10:54:11,609 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.163.12:5000
+2025-04-08 10:54:11,609 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-08 10:54:11,612 - INFO -  * Restarting with stat
+2025-04-08 10:54:19,114 - INFO - Loading google/flan-t5-base on cpu
+2025-04-08 10:54:22,298 - INFO - Model loaded successfully
+2025-04-08 10:54:22,407 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-08 10:54:23,220 - WARNING -  * Debugger is active!
+2025-04-08 10:54:23,226 - INFO -  * Debugger PIN: 104-723-829
+2025-04-08 11:03:45,037 - INFO - Loading google/flan-t5-base on cpu
+2025-04-08 11:03:48,557 - INFO - Model loaded successfully
+2025-04-08 11:03:48,642 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-08 11:03:49,445 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.163.12:5000
+2025-04-08 11:03:49,446 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-08 11:03:49,452 - INFO -  * Restarting with stat
+2025-04-08 11:03:56,715 - INFO - Loading google/flan-t5-base on cpu
+2025-04-08 11:04:00,222 - INFO - Model loaded successfully
+2025-04-08 11:04:00,315 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-08 11:04:00,912 - WARNING -  * Debugger is active!
+2025-04-08 11:04:00,917 - INFO -  * Debugger PIN: 104-723-829
+2025-04-08 11:04:08,113 - ERROR - Summarization error: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-08 11:04:08,118 - INFO - 127.0.0.1 - - [08/Apr/2025 11:04:08] "[35m[1mPOST /summarize HTTP/1.1[0m" 500 -
+2025-04-08 11:04:12,779 - ERROR - Summarization error: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-08 11:04:12,781 - INFO - 127.0.0.1 - - [08/Apr/2025 11:04:12] "[35m[1mPOST /summarize HTTP/1.1[0m" 500 -
+2025-04-08 11:04:26,393 - ERROR - Summarization error: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-08 11:04:26,395 - INFO - 127.0.0.1 - - [08/Apr/2025 11:04:26] "[35m[1mPOST /summarize HTTP/1.1[0m" 500 -
+2025-04-08 11:07:28,475 - INFO -  * Detected change in 'C:\\Users\\RAM\\OneDrive\\Desktop\\Project2k25\\Project2k25\\Backend\\app.py', reloading
+2025-04-08 11:07:29,677 - INFO -  * Restarting with stat
+2025-04-08 11:07:36,329 - INFO - Loading google/flan-t5-base on cpu
+2025-04-08 11:07:39,484 - INFO - Model loaded successfully
+2025-04-08 11:07:39,588 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-08 11:07:40,235 - WARNING -  * Debugger is active!
+2025-04-08 11:07:40,240 - INFO -  * Debugger PIN: 104-723-829
+2025-04-08 11:08:12,712 - INFO - 127.0.0.1 - - [08/Apr/2025 11:08:12] "[31m[1mPOST /summarize HTTP/1.1[0m" 415 -
+2025-04-08 11:08:13,823 - INFO - 127.0.0.1 - - [08/Apr/2025 11:08:13] "[31m[1mPOST /summarize HTTP/1.1[0m" 415 -
+2025-04-08 11:11:53,366 - INFO -  * Detected change in 'C:\\Users\\RAM\\OneDrive\\Desktop\\Project2k25\\Project2k25\\Backend\\app.py', reloading
+2025-04-08 11:11:54,422 - INFO -  * Restarting with stat
+2025-04-08 11:12:01,023 - INFO - Loading google/flan-t5-base on cpu
+2025-04-08 11:12:04,023 - INFO - Model loaded successfully
+2025-04-08 11:12:04,098 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-08 11:12:04,909 - WARNING -  * Debugger is active!
+2025-04-08 11:12:04,917 - INFO -  * Debugger PIN: 104-723-829
+2025-04-08 11:12:22,065 - INFO - 127.0.0.1 - - [08/Apr/2025 11:12:22] "[31m[1mPOST /summarize HTTP/1.1[0m" 415 -
+2025-04-08 11:14:49,542 - INFO - Loading google/flan-t5-base on cpu
+2025-04-08 11:14:52,829 - INFO - Model loaded successfully
+2025-04-08 11:14:52,911 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-08 11:14:53,562 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.163.12:5000
+2025-04-08 11:14:53,564 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-08 11:14:53,568 - INFO -  * Restarting with stat
+2025-04-08 11:15:00,140 - INFO - Loading google/flan-t5-base on cpu
+2025-04-08 11:15:06,148 - INFO - Model loaded successfully
+2025-04-08 11:15:06,414 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-08 11:15:08,193 - WARNING -  * Debugger is active!
+2025-04-08 11:15:08,220 - INFO -  * Debugger PIN: 104-723-829
+2025-04-08 11:15:08,516 - INFO - 127.0.0.1 - - [08/Apr/2025 11:15:08] "[31m[1mPOST /summarize HTTP/1.1[0m" 415 -
+2025-04-08 13:36:12,013 - INFO - Loading google/flan-t5-base on cpu
+2025-04-08 13:36:16,493 - INFO - Model loaded successfully
+2025-04-08 13:36:16,634 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-08 13:36:18,136 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.163.12:5000
+2025-04-08 13:36:18,138 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-08 13:36:18,144 - INFO -  * Restarting with stat
+2025-04-08 13:36:27,380 - INFO - Loading google/flan-t5-base on cpu
+2025-04-08 13:36:31,904 - INFO - Model loaded successfully
+2025-04-08 13:36:31,991 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-08 13:36:32,729 - WARNING -  * Debugger is active!
+2025-04-08 13:36:32,738 - INFO -  * Debugger PIN: 104-723-829
+2025-04-08 13:38:39,829 - INFO - 127.0.0.1 - - [08/Apr/2025 13:38:39] "[31m[1mPOST /summarize HTTP/1.1[0m" 415 -
+2025-04-08 13:38:51,562 - INFO - 127.0.0.1 - - [08/Apr/2025 13:38:51] "[31m[1mPOST /summarize HTTP/1.1[0m" 415 -
+2025-04-08 13:39:35,462 - INFO - Loading google/flan-t5-base on cpu
+2025-04-08 13:39:39,708 - INFO - Model loaded successfully
+2025-04-08 13:39:39,814 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-08 13:39:40,446 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.163.12:5000
+2025-04-08 13:39:40,447 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-08 13:39:40,455 - INFO -  * Restarting with stat
+2025-04-08 13:39:48,969 - INFO - Loading google/flan-t5-base on cpu
+2025-04-08 13:39:56,108 - INFO - Model loaded successfully
+2025-04-08 13:39:56,346 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-04-08 13:39:58,622 - WARNING -  * Debugger is active!
+2025-04-08 13:39:58,642 - INFO -  * Debugger PIN: 104-723-829
+2025-04-08 13:40:06,671 - INFO - 127.0.0.1 - - [08/Apr/2025 13:40:06] "[31m[1mPOST /summarize HTTP/1.1[0m" 415 -
+2025-04-08 13:40:10,239 - INFO - 127.0.0.1 - - [08/Apr/2025 13:40:10] "[31m[1mPOST /summarize HTTP/1.1[0m" 415 -
+2025-04-08 13:40:11,624 - INFO - 127.0.0.1 - - [08/Apr/2025 13:40:11] "[31m[1mPOST /summarize HTTP/1.1[0m" 415 -
+2025-04-08 13:40:12,698 - INFO - 127.0.0.1 - - [08/Apr/2025 13:40:12] "[31m[1mPOST /summarize HTTP/1.1[0m" 415 -
