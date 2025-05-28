@@ -175,4 +175,5 @@ cython_debug/
 
 node modules
 build
+node_modules.env
 
